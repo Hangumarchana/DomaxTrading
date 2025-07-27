@@ -1,3 +1,6 @@
+body{
+    background-color: white!important;
+}
 @font-face {
     font-family: 'Crimson Pro';
     src: url('assests/Fonts/CrimsonPro-Light.ttf') format('truetype');
@@ -177,6 +180,6 @@ header {
 }
 #HomeCards{
     position: relative;
-    top:180px;
+    top:140px;
 
 }
