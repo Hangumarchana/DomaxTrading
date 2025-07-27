@@ -7,10 +7,11 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/bootstrap.bundle.min.js" defer></script>
     <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer></script>
 </head>
 <body>
-<header>
-    <nav class="navbar navbar-expand-md">
+<header >
+    <nav class="navbar navbar-expand-md" id="navBar">
         <div class="container">
             <!-- Logo -->
             <a class="navbar-brand" href="#">
@@ -18,7 +19,7 @@
             </a>
 
             <!-- Toggle button for small screens -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+            <button class="navbar-toggler1  collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -84,6 +85,7 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
+
 <div id="HomeCardsHeader1">
     <h2 id="cardHeader1">Elegant, Efficient, Everlasting</h2>
     <h5 id="cardDescription">Oder Now and Get Same-Day-Delivery</h5>
@@ -91,7 +93,7 @@
 <div class="container py-5" id="HomeCards">
     <div class="row g-4">
         <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm">
+            <div class="card h-100 border-0  cardBgColor">
                 <img src="assests/Pictures/10-2%20(1).png" class="card-img-top" alt="Product 1">
                 <div class="card-body">
                     <h5 class="card-title">I'm a product</h5>
@@ -100,7 +102,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm">
+            <div class="card h-100 border-0  cardBgColor">
                 <img src="assests/Pictures/16-1%20(1).png" class="card-img-top" alt="Product 2">
                 <div class="card-body">
                     <h5 class="card-title">I'm a product</h5>
@@ -108,7 +110,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card h-100 border-0 shadow-sm">
+            <div class="card h-100 border-0  cardBgColor">
                 <img src="assests/Pictures/03-2%20(1).png" class="card-img-top" alt="Product 3">
                 <div class="card-body">
                     <h5 class="card-title">I'm a product</h5>
@@ -120,7 +122,55 @@
 
 </div>
 
-<footer class="text-dark pt-5 pb-4" id="footerRec">
+<button class="customButton1">Shop Now</button>
+
+<div class="container" id="HomeBanner">
+    <div class="row">
+        <div class="col-md-12">
+            <img src="assests/Pictures/Quicksand.png" class="img-fluid" alt="Banner Image">
+        </div>
+
+
+    </div>
+</div>
+<div id="HomeCardsHeader2">
+    <h2 class="card-header-2">Hot Picks</h2>
+    <h5 class="card-desc-2">Get This Week’s Most Loved Lights – Delivered Today</h5>
+</div>
+
+<div class="container py-5" id="HomeCards2">
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card h-100 border-0  cardBgColor">
+                <img src="assests/Pictures/82900733730%20(2).png" class="card-img-top" alt="Product 1">
+                <div class="card-body">
+                    <h5 class="card-title">I'm a product</h5>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100 border-0  cardBgColor">
+                <img src="assests/Pictures/01.png" class="card-img-top" alt="Product 2">
+                <div class="card-body">
+                    <h5 class="card-title">I'm a product</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100 border-0  cardBgColor">
+                <img src="assests/Pictures/10%20(1).png" class="card-img-top" alt="Product 3">
+                <div class="card-body">
+                    <h5 class="card-title">I'm a product</h5>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+<button class="customButton2 ">Shop Now</button>
+<footer class="">
     <div class="container" id="subFooter">
         <div class="row" id="footerRow">
 
@@ -129,7 +179,7 @@
                 <img src="assests/Logos/Logo-02.png" alt="Logo" class="d-block mx-auto" style="max-height: 80px;" id="footerLogo">
             </div>
 
-            <!-- Quick Menu -->
+
             <div class="col-md-3 col-sm-6 mb-4" id="rec2">
                 <h5 class="fw-bold FooterSubHeading" >Quick Menu</h5>
                 <ul class="list-unstyled">
@@ -172,10 +222,9 @@
                 </div>
             </div>
 
+
         </div>
-
-
-        <div class="text-center mt-4 border-top pt-3">
+        <div class="text-center mt-4 border-top FooterText">
             <small>&copy; 2025 Domax Trading. All rights reserved.</small>
         </div>
     </div>
