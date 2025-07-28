@@ -1,5 +1,6 @@
 body{
     background-color: #fdfdfd !important;
+    overflow-x: hidden;
 }
 @font-face {
     font-family: 'Crimson Pro';
