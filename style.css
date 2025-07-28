@@ -1,5 +1,5 @@
 body{
-    background-color: #f2f0ea !important;
+    background-color: #fdfdfd !important;
 }
 @font-face {
     font-family: 'Crimson Pro';
@@ -12,6 +12,12 @@ body{
     font-family: 'Quicksand';
     src: url('assests/Fonts/Quicksand-Regular.ttf') format('woff2');
     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('assests/Fonts/Montserrat-Regular.ttf') format('woff2');
+    font-weight:normal;
     font-style: normal;
 }
 
@@ -108,6 +114,7 @@ body{
 .nav-link {
     font-family: 'Quicksand', sans-serif;
     margin: 0 10px;
+    text-wrap: nowrap;
 }
 
 .form-control {
@@ -281,11 +288,30 @@ header {
 .activeHeaderDropDown {
     box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25) !important;
 }
-.card-title{
-    text-align: center;
-    font-family: 'Crimson Pro', serif;
-    font-weight: bold;
+.card-body {
+    display: flex;
+    justify-content: space-between; /* pushes text left, button right */
+    align-items: flex-end; /* aligns items at the bottom */
+    text-align: left;
+    padding: 1rem;
 }
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 18px !important;
+}
+
+.card-dep {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #000000;
+}
+
+.BuyButton {
+    /* optional button styling */
+}
+
 @media (min-width: 1200px) {
     .card-title{
         font-size: 26px;
@@ -307,7 +333,7 @@ header {
     top:140px;
     width:200px;
     height: 50px;
-    background-color: #f2f0ea;
+    background-color: #fbfbfb;
     transition: ease-in-out 0.3s;
 
 }
@@ -317,7 +343,7 @@ header {
     border: 1px solid #f2f0ea;
 }
 .cardBgColor{
-    background-color: #f2f0ea;
+    background-color: #f8f8f4;
 }
 #HomeCards2{
     position: relative;
@@ -334,7 +360,7 @@ header {
     top:260px;
     width:200px;
     height: 50px;
-    background-color: #f2f0ea;
+    background-color: #fbfbfb;
     transition: ease-in-out 0.3s;
 }
 .customButton2:hover{
@@ -400,3 +426,19 @@ footer{
     }
 }
 
+hr{
+    background-color: #b09a69;
+    height:1px;
+    width:20vw;
+}
+.hr1{
+    width: 10vw!important;
+}
+.section-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:1vw;
+    text-wrap: nowrap;
+}
