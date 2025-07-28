@@ -1,6 +1,6 @@
 body{
     background-color: #fdfdfd !important;
-    overflow-x: hidden;
+
 }
 @font-face {
     font-family: 'Crimson Pro';
@@ -426,15 +426,18 @@ footer{
 
     }
 }
+@media (min-width: 1200px){
+    hr{
+        background-color: #b09a69;
+        height:1px;
+        width:20vw;
+    }
+    .hr1{
+        width:10vw !important;
+    }
+}
 
-hr{
-    background-color: #b09a69;
-    height:1px;
-    width:20vw;
-}
-.hr1{
-    width: 10vw!important;
-}
+
 .section-heading{
     display: flex;
     flex-direction: row;
