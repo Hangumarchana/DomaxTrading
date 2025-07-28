@@ -184,6 +184,28 @@ header {
 
     
 }
+@media (max-width: 576px){
+    .card-header-2{
+        font-size: 30px!important;
+    }
+    .card-desc-2{
+        font-size: 14px!important;
+    }
+
+}
+@media (max-width: 576px) {
+    #cardHeader1{
+        font-size: 30px!important;
+
+    }
+
+    #cardDescription{
+        font-size:14px!important;
+    }
+
+
+}
+
 @media (max-width: 1200px) {
     .card-header-2 {
         font-size: 46px;
@@ -211,6 +233,7 @@ header {
         font-size: 10px;
     }
 }
+
 @media (max-width: 768px) {
     #cardHeader1{
         font-size: 36px;
@@ -345,3 +368,35 @@ footer{
 .nav-item:hover{
     text-decoration: underline;
 }
+
+
+@media (max-width: 576px){
+    .ImgSlider{
+        height:60vh!important;
+    }
+    .carousel-item{
+        height: 60vh!important;
+        background-color: black;
+    }
+    .sliderImg{
+        height: 60vh!important;
+        width:auto !important;
+
+    }
+
+}
+@media (max-width: 768px){
+    .ImgSlider{
+        height:60vh!important;
+    }
+    .carousel-item{
+        height: 60vh!important;
+        background-color: black;
+    }
+    .sliderImg{
+        height: 60vh!important;
+        width:auto !important;
+
+    }
+}
+
