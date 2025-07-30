@@ -446,3 +446,26 @@ footer{
     gap:1vw;
     text-wrap: nowrap;
 }
+#ProductBanner{
+    position: relative;
+    top:150px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+#FilterHeading{
+    font-family: 'montserrat', sans-serif;
+    font-weight: bolder!important;
+}
+#itemCount{
+    font-family:'quicksand', sans-serif;
+}
+#ProductHr{
+
+
+}
