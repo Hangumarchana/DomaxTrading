@@ -8,6 +8,12 @@ body{
     font-style: normal;
     font-weight: normal;
 }
+@font-face {
+    font-family: 'Caudex';
+    src: url('assests/Fonts/Caudex-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
 
 @font-face {
     font-family: 'Quicksand';
@@ -459,8 +465,11 @@ footer{
 
 }
 #FilterHeading{
-    font-family: 'montserrat', sans-serif;
-    font-weight: bolder!important;
+
+
+    font-family: 'Caudex', serif !important;
+    font-weight: bold;
+    color: #0675C2;
 }
 #itemCount{
     font-family:'quicksand', sans-serif;
@@ -644,4 +653,44 @@ footer{
     align-items: center;
     gap: 10px;
     flex-wrap: wrap;
+}
+#contact-header{
+    position: relative;
+    top:180px;
+    font-family: 'Caudex', serif;
+    font-weight: bold;
+    color: #0675C2;
+
+
+
+
+}
+.contact-text{
+    font-family:'quicksand', sans-serif;
+    font-size: 20px;
+}
+#Contact{
+    position: relative;
+    top:200px;
+
+
+}
+#contact-body{
+
+    border: 0.1px solid #fff1cf;
+
+
+}
+.red{
+    background-color: #ff0000!important;
+    width:100%;
+    height: 100%;
+    margin:0!important;
+    padding: 0 !important;
+
+}
+#contactFooter{
+    position: relative;
+    top:200px!important;
+
 }
