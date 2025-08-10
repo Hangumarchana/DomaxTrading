@@ -1,0 +1,1116 @@
+[
+  {
+    "Id": 1,
+    "Name":" Modern Crystal Chandelier",
+    "Category": "Chandeliers",
+    "Sub": "Crystal",
+    "Dep": "A grand chandelier featuring a tiered, inverted pyramid design with hundreds of delicate crystal/glass elements, finished with a polished brass or gold accent band. Ideal statement lighting for luxury interiors.",
+    "Color": "golden",
+    "Material": "Crystal glass with metal/brass accents",
+    "Finish": "Polished brass/gold tone",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p1.jpeg"
+  },
+  {
+    "Id": 2,
+    "Name": "Modern Crystal Pendant Chandelier",
+    "Category": "Chandeliers",
+    "Sub": "Crystal",
+    "Dep": "Elegant chandelier featuring a tiered cylindrical design with multiple layers of clear crystal prisms. The metal frame is finished in polished brass/gold, casting a warm and luxurious glow. Perfect for adding sophistication to living rooms and high-ceiling spaces.",
+    "Color": "golden",
+    "Material": "Crystal glass with metal/brass frame",
+    "Finish": "Polished brass/gold tone",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p2.jpeg"
+  },
+  {
+    "Id": 3,
+    "Name": "Modern Cascading Crystal Pendant Light",
+    "Category": "Chandeliers",
+    "Sub": "Crystal",
+    "Dep": "A multi-pendant chandelier featuring a spiral arrangement of textured crystal glass shades suspended from a circular canopy. Each shade has a unique, organic shape resembling a rough-cut geode or ice crystal, and is accented with a polished gold-toned brass cap. This fixture is ideal for stairwells, double-height entryways, and modern living spaces, creating a dramatic and elegant focal point.",
+    "Color": "golden",
+    "Material": "Crystal glass with polished brass",
+    "Finish": "Polished Brass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p3.jpeg"
+  },
+  {
+    "Id": 4,
+    "Name": "Modern Multi-Light Spiral Pendant Chandelier",
+    "Category": "Chandeliers",
+    "Sub": "Cluster",
+    "Dep": "A large-scale, multi-pendant chandelier featuring a spiral arrangement of numerous individual lights. Each pendant consists of a small, gourd-shaped white glass shade with a textured or frosted finish, capped with a sleek, polished golden brass top. The pendants hang at varying lengths from a large circular, polished brass ceiling plate, creating a dramatic cascading effect. This fixture is designed for a modern aesthetic, perfect for high ceilings, spiral staircases, and open-plan living areas.",
+    "Color": "golden",
+    "Material": "Frosted/textured glass with polished brass",
+    "Finish": "Polished Brass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p4.jpeg"
+  },
+  {
+    "Id": 5,
+    "Name": "Industrial Black and Gold Bell Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A simple yet stylish bell-shaped pendant light featuring a matte black exterior and a contrasting, reflective gold or copper interior. The design is clean and industrial-inspired, providing focused down-lighting. It's a versatile piece suitable for kitchen islands, dining tables, cafes, or commercial spaces, adding a touch of modern industrial charm.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/copper interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p5.jpg"
+  },
+  {
+    "Id": 6,
+    "Name": "Industrial Flared Bell Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "An industrial-style pendant light featuring a wide, flared bell-shaped shade. The exterior has a textured, matte black finish, while the interior is a contrasting polished gold or copper, designed to reflect and warm the light. This piece combines a rustic, rugged feel with a touch of modern elegance, making it an excellent choice for illuminating kitchen islands, dining tables, or bar counters.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/copper interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p6.jpg"
+  },
+  {
+    "Id": 7,
+    "Name": "Industrial Black and Gold Dome Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A classic industrial-style pendant light with a clean, rounded dome shape. The fixture features a matte black exterior finish and a highly reflective, polished gold or brass interior. This design is both timeless and modern, providing excellent focused down-lighting. It is well-suited for a variety of spaces including kitchen counters, dining areas, or adding a stylish accent to an entryway.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/brass interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p7.jpg"
+  },
+  {
+    "Id": 8,
+    "Name": "Industrial Black and Gold Squat Bell Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A stylish industrial-style pendant light with a squat, rounded bell-shaped metal shade. The exterior is finished in a matte black, while the interior is a contrasting polished gold or brass that enhances the light's warm glow. This sturdy and compact design is ideal for providing focused light over kitchen islands, dining tables, or as accent lighting in a cafe or bar setting.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/brass interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p8.jpg"
+  },
+  {
+    "Id": 9,
+    "Name": "Industrial Black and Gold Conical Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Cone",
+    "Dep": "A sleek, industrial-style pendant light with a distinct conical shape. The fixture features a matte black exterior finish and a lustrous, polished gold or brass interior. Its minimalist design provides a focused, downward light perfect for highlighting a kitchen island, dining table, or entryway. The contrasting finishes add a modern and sophisticated touch to its industrial aesthetic.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/brass interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p9.jpg"
+  },
+  {
+    "Id": 10,
+    "Name": "Rustic Industrial Black and Gold Dome Pendant",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A rustic industrial-style pendant light featuring a deep, rounded dome-shaped metal shade. The top of the fixture has a classic sculpted design, and the overall exterior is a matte black finish. The interior reveals a warm, polished gold or brass color that enhances the light's output and creates a cozy ambiance. This piece is perfect for adding a touch of vintage character to dining rooms, kitchens, or entryways.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/brass interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p10.jpg"
+  },
+  {
+    "Id": 11,
+    "Name": "Classic Industrial Black and Gold Dome Pendant",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A classic industrial-style pendant light featuring a wide, rounded dome-shaped metal shade. The exterior has a simple matte black finish, while the interior is a highly reflective polished gold or brass. This timeless and versatile design provides excellent downward illumination and is perfect for modern farmhouse, industrial, or transitional decor. It works well individually or in a series over kitchen islands and dining tables.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/brass interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p11.jpg"
+  },
+  {
+    "Id": 12,
+    "Name": "Modern Perforated Black and Gold Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Perforated",
+    "Dep": "A modern pendant light featuring an elongated dome or bell-shaped metal shade. The exterior is a sleek matte black, while the interior is a contrasting polished gold. The most striking feature is the pattern of small, circular perforations on the lower half of the shade, which allows light to escape, creating a unique starburst-like ambient glow in addition to the direct downward light. This piece is perfect for adding a decorative and contemporary touch to dining rooms, entryways, or living spaces.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold/brass interior",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p12.jpg"
+  },
+  {
+    "Id": 13,
+    "Name": "Classic Industrial Aluminum Dome Pendant",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A classic industrial-style pendant light featuring a wide, dome-shaped metal shade. The entire fixture has a uniform brushed or polished aluminum finish, giving it a clean, utilitarian aesthetic. Its large shade is designed to provide broad, downward illumination, making it a functional and stylish choice for kitchen islands, workshop areas, or dining tables in industrial and modern farmhouse settings.",
+    "Color": "silver",
+    "Material": "Aluminum",
+    "Finish": "Brushed Aluminum",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p13.jpg"
+  },
+  {
+    "Id": 14,
+    "Name": "Industrial Aluminum Deep Dome Pendant",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "An industrial-style pendant light featuring a deep, rounded dome-shaped metal shade. The entire fixture has a uniform brushed or polished aluminum finish, giving it a raw and utilitarian aesthetic. Its deeper shade is designed to provide more focused downward illumination, making it an ideal choice for tasks over a workbench, kitchen island, or dining table in an industrial or minimalist setting.",
+    "Color": "silver",
+    "Material": "Aluminum",
+    "Finish": "Brushed Aluminum",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p14.jpg"
+  },
+  {
+    "Id": 15,
+    "Name": "Vintage Industrial Shallow Cone Pendant",
+    "Category": "Pendant Lights",
+    "Sub": "Cone",
+    "Dep": "A vintage industrial-style pendant light featuring a wide, shallow cone-shaped shade. The exterior has a simple brushed aluminum finish, while the interior is a contrasting dark, reddish-brown color, possibly a dark copper tone. The design exposes the light bulb, giving it a classic farmhouse or factory aesthetic. It's ideal for providing wide, general illumination over dining tables, work areas, or in spaces with rustic and industrial decor.",
+    "Color": "silver",
+    "Material": "Aluminum",
+    "Finish": "Brushed Aluminum exterior with a dark interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p15.jpg"
+  },
+  {
+    "Id": 16,
+    "Name": "Industrial Aluminum Bell Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A classic industrial-style pendant light featuring a wide, rounded bell-shaped metal shade. The entire fixture has a uniform brushed or polished aluminum finish, giving it a raw, utilitarian look. Its broad shade is designed to cast a wide spread of light, making it a functional and sturdy choice for industrial settings, workshops, large kitchen islands, or commercial spaces.",
+    "Color": "silver",
+    "Material": "Aluminum",
+    "Finish": "Brushed Aluminum",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p16.jpg"
+  },
+  {
+    "Id": 17,
+    "Name": "Modern Black and White Conical Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Cone",
+    "Dep": "A sleek and modern pendant light with a sharp conical or bullet-shaped metal shade. It features a minimalist design with a matte black exterior and a contrasting clean white interior, which maximizes light reflection. This fixture is perfect for providing focused, crisp downward illumination, making it an excellent choice for a modern kitchen island, dining table, or as a stylish accent in a contemporary living space.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a white interior",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p17.jpg"
+  },
+  {
+    "Id": 18,
+    "Name": "Modern Glossy Black Bottle Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Decorative",
+    "Dep": "A modern and sleek pendant light featuring a unique bottle or bell-like shape with a smooth, curved profile. The fixture is finished in a uniform glossy black, giving it a sophisticated and sculptural appearance. This design is perfect for adding a touch of contemporary elegance, working well as a standalone piece or in a cluster over a kitchen island, bar counter, or dining table.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Glossy Black",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p18.jpg"
+  },
+  {
+    "Id": 19,
+    "Name": "Modern Wide Dome Pendant Light",
+    "Category": "Pendant Lights",
+    "Sub": "Dome",
+    "Dep": "A stylish modern pendant light featuring a wide, shallow dome-shaped metal shade. The exterior has a textured matte black finish, while the interior is a clean, bright white, designed to maximize light reflection and create a bright, inviting glow. Its classic and minimalist design makes it a versatile piece for a variety of interiors, perfect for providing broad illumination over dining tables, kitchen islands, or in commercial settings.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a white interior",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p19.jpg"
+  },
+  {
+    "Id": 20,
+    "Name": "Industrial Black and Gold Lantern Pendant",
+    "Category": "Pendant Lights",
+    "Sub": "Lantern",
+    "Dep": "An industrial-style pendant light designed to look like a classic lantern or a vintage milk can. It features a cylindrical metal shade with a matte black exterior and a contrasting polished gold interior that reflects a warm glow. The top of the fixture has a decorative handle-like detail, and the open bottom exposes the light bulb. This rustic yet modern piece is an excellent choice for a kitchen island, bar, or to add character to an entryway.",
+    "Color": "black",
+    "Material": "Metal",
+    "Finish": "Matte black exterior with a polished gold interior",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p20.jpg"
+  },
+  {
+    "Id": 21,
+    "Name": "Modern Crystal Globe Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Crystal",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural polished brass/gold frame. Each light is a faceted crystal glass globe, encased in a delicate golden metal cage that resembles a blooming flower. The cluster hangs from a triangular frame, creating a striking and elegant centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a luxurious touch to a living space.",
+    "Color": "golden",
+    "Material": "Crystal glass with metal frame",
+    "Finish": "Polished Brass/Gold",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p21.jpg"
+  },
+  {
+    "Id": 22,
+    "Name": "Modern Crystal Globe Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Crystal",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural polished brass/gold frame. Each light is a faceted crystal glass globe, encased in a delicate golden metal cage that resembles a blooming flower. The cluster hangs from a triangular frame, creating a striking and elegant centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a luxurious touch to a living space.",
+    "Color": "golden",
+    "Material": "Crystal glass with metal frame",
+    "Finish": "Polished Brass/Gold",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p22.jpg"
+  },
+  {
+    "Id": 23,
+    "Name": "Industrial Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Crystal+",
+    "Dep": "An industrial-style three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a rounded, black metal cage surrounding a warm, amber-toned glass shade. The cluster hangs from a triangular frame, creating a rustic yet modern centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a touch of industrial charm to an entryway.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p23.jpg"
+  },
+  {
+    "Id": 24,
+    "Name": "Modern Geometric Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural matte black metal frame. Each light consists of a textured, clear glass globe encased in a unique black metal cage with a geometric, ribbon-like design. The cluster hangs from a triangular frame, creating a striking and contemporary centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a stylish touch to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte Black",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p24.jpg"
+  },
+  {
+    "Id": 25,
+    "Name": "Modern Geometric Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural matte black metal frame. Each light consists of a textured, clear glass globe encased in a unique black metal cage with a geometric, ribbon-like design. The cluster hangs from a triangular frame, creating a striking and contemporary centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a stylish touch to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte Black",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p25.jpg"
+  },
+  {
+    "Id": 26,
+    "Name": "Modern Geometric Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural matte black metal frame. Each light consists of a textured, clear glass globe encased in a unique black metal cage with a geometric, ribbon-like design. The cluster hangs from a triangular frame, creating a striking and contemporary centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a stylish touch to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte Black",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p26.jpg"
+  },
+  {
+    "Id": 27,
+    "Name": "Modern Geometric Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural matte black metal frame. Each light consists of a textured, clear glass globe encased in a unique black metal cage with a smooth, ribbon-like circular design. The cluster hangs from a triangular frame, creating a contemporary and artistic centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a stylish touch to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte Black",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p27.jpg"
+  },
+  {
+    "Id": 28,
+    "Name": "Industrial Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "An industrial-style three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a rounded, black metal cage surrounding a warm, amber-toned glass shade. The cluster hangs from a triangular frame, creating a rustic yet modern centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a touch of industrial charm to an entryway.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p28.jpg"
+  },
+  {
+    "Id": 29,
+    "Name": "Rustic Rope and Mesh Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A rustic three-light pendant chandelier featuring a unique blend of materials. Each light has a cylindrical black metal mesh cage that is wrapped with natural jute rope, giving it a distinct nautical and farmhouse feel. The pendants are topped with a wood-toned detail and a sleek black metal cap, all suspended from a black ceiling plate. This fixture is ideal for a dining room, kitchen island, or living space seeking a touch of coastal or rustic charm.",
+    "Color": "black",
+    "Material": "Metal, Rope, and Wood",
+    "Finish": "Matte black with natural rope and wood tone accents",
+    "Style": "Nautical",
+    "IMG": "assests/Pictures/p29.jpg"
+  },
+  {
+    "Id": 30,
+    "Name": "Modern Industrial Ornate Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A modern industrial-style three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a decorative black metal cage with an intricate, cut-out pattern surrounding a warm, amber-toned glass shade. The cluster hangs from a round black ceiling plate, creating a sophisticated and stylish centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a unique touch of modern industrial elegance to any space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p30.jpg"
+  },
+  {
+    "Id": 31,
+    "Name": "Modern Geometric Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical metal cage with an intricate diamond or crisscross pattern, surrounding a ribbed, amber-toned or clear glass shade. The cluster hangs from a round black ceiling plate, creating a sophisticated and stylish centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a unique touch of modern elegance to any space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with ribbed glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p31.jpg"
+  },
+  {
+    "Id": 32,
+    "Name": "Modern Geometric Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical metal cage with an intricate diamond or crisscross pattern, surrounding a ribbed, amber-toned or clear glass shade. The cluster hangs from a round black ceiling plate, creating a sophisticated and stylish centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a unique touch of modern elegance to any space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with ribbed glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p32.jpg"
+  },
+  {
+    "Id": 33,
+    "Name": "Modern Wavy Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical metal cage with a wavy, undulating pattern, surrounding a clear glass shade with vertical ribs. The fixture is accented with wood-toned elements at the top of each pendant and hangs from a round black ceiling plate. This piece combines industrial and modern aesthetics, making it a stylish addition to a dining room, kitchen island, or living area.",
+    "Color": "black",
+    "Material": "Metal, Glass, and Wood",
+    "Finish": "Matte black with ribbed glass and wood accents",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p33.jpg"
+  },
+  {
+    "Id": 34,
+    "Name": "Modern Industrial Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical metal cage with a vertical ribbed pattern, surrounding a warm, amber-toned glass shade. The fixture is accented with a clear, crystal-like detail above each shade and hangs from a round black ceiling plate. This piece combines industrial and modern aesthetics, making it a stylish addition to a dining room, kitchen island, or living area.",
+    "Color": "black",
+    "Material": "Metal, Glass, and Crystal",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p34.jpg"
+  },
+  {
+    "Id": 35,
+    "Name": "Modern Industrial Square Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a square-shaped metal cage with a decorative cut-out pattern, surrounding a warm, amber-toned glass shade. The fixture is accented with a clear, crystal-like detail above each shade and hangs from a round black ceiling plate. This piece combines industrial and modern aesthetics, making it a stylish and unique addition to a dining room, kitchen island, or living area.",
+    "Color": "black",
+    "Material": "Metal, Glass, and Crystal",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p35.jpg"
+  },
+  {
+    "Id": 36,
+    "Name": "Modern Geometric Hexagon Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a hexagonal metal cage surrounding a cylindrical, amber-toned glass shade. The cluster hangs from a black ceiling plate, creating a stylish and contemporary centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a unique touch of modern elegance to any space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p36.jpg"
+  },
+  {
+    "Id": 37,
+    "Name": "Modern Geometric Stacked Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a unique stacked, open-square metal cage surrounding a cylindrical, amber-toned glass shade. The cluster hangs from a black ceiling plate, creating a bold and contemporary centerpiece. This fixture is ideal for a modern dining room, kitchen island, or to add a unique architectural element to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p37.jpg"
+  },
+  {
+    "Id": 38,
+    "Name": "Modern Geometric C-Frame Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical, amber-toned glass shade, which is partially encased by a unique C-shaped or horseshoe-like black metal frame. The cluster hangs from a black ceiling plate, creating a stylish and contemporary centerpiece. This fixture is ideal for a modern dining room, kitchen island, or to add a unique architectural element to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p38.jpg"
+  },
+  {
+    "Id": 39,
+    "Name": "Industrial Cage Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Cylindrical",
+    "Dep": "An industrial-style three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a rounded, black metal cage surrounding a warm, amber-toned glass shade. The cluster hangs from a triangular frame, creating a rustic yet modern centerpiece. This fixture is ideal for a dining room, kitchen island, or to add a touch of industrial charm to an entryway.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/p39.jpg"
+  },
+  {
+    "Id": 40,
+    "Name": "Modern Geometric Square Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical, amber-toned glass shade, which is partially encased by a black square frame with rounded corners. The cluster hangs from a black ceiling plate, creating a stylish and contemporary centerpiece. This fixture is ideal for a modern dining room, kitchen island, or to add a unique architectural element to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p40.jpg"
+  },
+  {
+    "Id": 41,
+    "Name": "Modern Geometric Diamond Frame Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical, amber-toned glass shade, which is partially encased by a unique diamond-shaped black metal frame. The cluster hangs from a black ceiling plate, creating a stylish and contemporary centerpiece. This fixture is ideal for a modern dining room, kitchen island, or to add a unique architectural element to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p41.jpg"
+  },
+  {
+    "Id": 42,
+    "Name": "Nordic Wooden Ring Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a Nordic-inspired design. Each light consists of a spherical, frosted white glass shade encased by a large, circular natural wood frame. The cluster is suspended from a round wooden ceiling plate, creating a warm, organic, and contemporary centerpiece. This fixture is ideal for a modern dining room, entryway, or to add a natural touch to a living space.",
+    "Color": "wood tone",
+    "Material": "Wood and Frosted Glass",
+    "Finish": "Natural wood with frosted white glass",
+    "Style": "Nordic",
+    "IMG": "assests/Pictures/p42.jpg"
+  },
+  {
+    "Id": 43,
+    "Name": "Modern Geometric Triangular Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a cylindrical, amber-toned glass shade, which is encased by a unique triangular black metal frame with rounded corners. The cluster hangs from a black ceiling plate, creating a stylish and contemporary centerpiece. This fixture is ideal for a modern dining room, kitchen island, or to add a unique architectural element to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p43.jpg"
+  },
+  {
+    "Id": 44,
+    "Name": "Modern Wavy Cage Globe Pendant Chandelier",
+    "Category": "Pendant Lights",
+    "Sub": "Geometric",
+    "Dep": "A modern three-light pendant chandelier featuring a sculptural black metal frame. Each light consists of a spherical, patterned amber-toned glass globe, partially encased by a unique wavy or ribbon-like black metal cage. The cluster hangs from a black ceiling plate, creating a stylish and contemporary centerpiece. This fixture is ideal for a modern dining room, kitchen island, or to add a unique architectural element to a living space.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with amber glass",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/p44.jpg"
+  },
+  {
+    "Id": 45,
+    "Name": "Decorative Frosted Glass Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A decorative single-light wall sconce featuring a cylindrical, frosted white glass shade with an elegant floral pattern. The shade is accented with a decorative black and silver metal band at the bottom. It is mounted on a stylish black rectangular backplate with a white patterned inner border, making it a sophisticated addition to an entryway, hallway, or bathroom.",
+    "Color": "black",
+    "Material": "Glass, Metal, and Acrylic",
+    "Finish": "Matte black with frosted patterned glass and polished metal accents",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/45.jpg"
+  },
+  {
+    "Id": 46,
+    "Name": "Modern Curved LED Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a unique curved shade with a grid-like texture. The light source is a strip of LEDs that illuminates the translucent shade, which is mounted on a vertical brass-toned metal backplate. This fixture offers a sleek and contemporary design, perfect for adding ambient lighting to a modern living space, hallway, or bedroom.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished brass with textured acrylic",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/46.jpg"
+  },
+  {
+    "Id": 47,
+    "Name": "Modern Striped Fabric Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a tall, cylindrical shade with a vertical striped pattern. The shade appears to be made of a translucent fabric or acrylic material, diffusing a soft glow. It is mounted on a small, polished chrome or silver-toned metal base. This fixture offers a clean and contemporary design, perfect for adding ambient lighting to a hallway, bedroom, or living area.",
+    "Color": "golden",
+    "Material": "Fabric/Acrylic and Metal",
+    "Finish": "Polished silver with a striped shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/47.jpg"
+  },
+  {
+    "Id": 48,
+    "Name": "Modern Curved Acrylic Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring two curved, translucent acrylic panels with a glittered or speckled texture. The panels are attached to a central black rectangular piece, which is mounted on a circular black backplate. This fixture creates a unique and modern lighting effect, perfect for adding a touch of contemporary design to a hallway, bedroom, or living area.",
+    "Color": "black",
+    "Material": "Metal and Acrylic",
+    "Finish": "Matte black with glittered acrylic",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/48.jpg"
+  },
+  {
+    "Id": 49,
+    "Name": "Modern Crystal Wand Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a long, tapered wand-like crystal or acrylic shade with a patterned texture. The light fixture has a polished gold base and is accented with a decorative, flower-like clear acrylic/crystal frame. This piece creates a luxurious and elegant lighting effect, ideal for adding a touch of glam to a hallway, bedroom, or living area.",
+    "Color": "golden",
+    "Material": "Crystal/Acrylic and Metal",
+    "Finish": "Polished gold with clear textured crystal",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/49.jpg"
+  },
+  {
+    "Id": 50,
+    "Name": "Modern Crystal Bar Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a decorative rectangular bar of clear crystal or acrylic. The bar has a faceted, textured surface and is mounted on a sleek black backplate. This fixture creates a captivating play of light and shadow, perfect for adding a touch of contemporary glam to a hallway or living space.",
+    "Color": "black",
+    "Material": "Crystal/Acrylic and Metal",
+    "Finish": "Matte black with clear faceted crystal",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/50.jpg"
+  },
+  {
+    "Id": 51,
+    "Name": "Modern Leaf-Shaped Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a unique leaf-shaped, translucent acrylic shade. The shade has a subtle grid-like texture and is mounted on a central vertical brass-toned bar. This fixture offers a creative and stylish design, perfect for adding a touch of contemporary elegance to a hallway, bedroom, or living area.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished brass with textured acrylic",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/51.jpg"
+  },
+  {
+    "Id": 52,
+    "Name": "Modern Tapered Geometric Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a tapered, clear acrylic shade with a geometric, crisscross pattern. The shade is positioned at an angle and is mounted on a circular polished brass-toned backplate with a central black section. This fixture provides a dynamic and contemporary look, perfect for adding stylish lighting to a hallway or living space.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished brass with textured acrylic",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/52.jpg"
+  },
+  {
+    "Id": 53,
+    "Name": "Modern Bubble Cylinder Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a tall, cylindrical clear acrylic or glass shade filled with decorative air bubbles. The shade is held by a central polished silver-toned metal band and is mounted on a circular black backplate. This design creates a sparkling, textured light effect, perfect for contemporary spaces like a hallway, living room, or bedroom.",
+    "Color": "white",
+    "Material": "Glass/Acrylic and Metal",
+    "Finish": "Polished silver with a clear bubble-filled shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/53.jpg"
+  },
+  {
+    "Id": 54,
+    "Name": "Modern Tapered Geometric Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a tapered, clear acrylic shade with a geometric, crisscross pattern. The shade is positioned at an angle and is mounted on a circular polished brass-toned backplate with a central black section. This fixture provides a dynamic and contemporary look, perfect for adding stylish lighting to a hallway or living space.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished brass with textured acrylic",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/54.jpg"
+  },
+  {
+    "Id": 55,
+    "Name": "Modern Industrial Cage Pendant Chandelier",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A three-light cluster pendant chandelier featuring black metal cages with a flared top. Each cage encloses a decorative, multifaceted glass shade. The pendants are suspended at different lengths from a triangular black metal frame attached to a round ceiling plate. This fixture offers a blend of industrial and modern design elements.",
+    "Color": "black",
+    "Material": "Metal and Glass",
+    "Finish": "Matte black with polished gold accents and clear multifaceted glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/55.jpg"
+  },
+  {
+    "Id": 56,
+    "Name": "Modern Gold Leaf Curved Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent acrylic shade with decorative gold flakes or leaf embedded within. The shade is mounted on a central, vertical polished gold-toned bar that houses the light source. This fixture provides a warm and luxurious glow, perfect for adding a touch of glamour to a contemporary living space, hallway, or bedroom.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with clear acrylic and gold flakes",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/56.jpg"
+  },
+  {
+    "Id": 57,
+    "Name": "Modern Scroll Pattern Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a cylindrical, translucent shade with a repeating scroll or chain-link pattern. The shade, likely made of fabric or acrylic, diffuses a soft, warm light. It is mounted on a small, polished chrome or silver-toned metal base. This fixture offers a clean and elegant design, perfect for adding ambient lighting to a hallway, bedroom, or living area.",
+    "Color": "golden",
+    "Material": "Fabric/Acrylic and Metal",
+    "Finish": "Polished silver with a white patterned shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/57.jpg"
+  },
+  {
+    "Id": 58,
+    "Name": "Modern Leaf Design Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent acrylic shade in a leaf shape with a delicate patterned texture. The shade is mounted on a central, vertical polished gold-toned bar that houses the light source and is attached to a decorative circular backplate. This fixture creates an artistic and elegant lighting effect, perfect for contemporary spaces.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a clear patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/58.jpg"
+  },
+  {
+    "Id": 59,
+    "Name": "Modern Honeycomb Twist Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring two twisting, clear acrylic blades with a honeycomb or hexagonal pattern. The blades are mounted on a central, vertical polished gold-toned bar that houses the light source. This fixture offers a unique and artistic design, casting a beautiful patterned light effect, ideal for contemporary spaces.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/59.jpg"
+  },
+  {
+    "Id": 60,
+    "Name": "Modern Crown-Shaped Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a translucent, crown-shaped acrylic shade with a patterned texture. The shade is mounted on a central, vertical black-toned metal bar that houses the light source. The fixture offers a playful yet elegant design, perfect for adding a touch of unique style to a contemporary interior.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Matte black with a clear patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/60.jpg"
+  },
+  {
+    "Id": 61,
+    "Name": "Modern Bubble Curved Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent acrylic shade with a decorative bubble-like or sparkling texture. The shade wraps around a central polished gold-toned bar, which houses the light source and is mounted on a small circular backplate. This fixture creates a glamorous and unique lighting effect, ideal for contemporary living spaces.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a clear bubble-textured shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/61.jpg"
+  },
+  {
+    "Id": 62,
+    "Name": "Modern Perforated Curved Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent acrylic shade with a decorative perforated or dotted pattern. The shade is held by a central vertical polished gold-toned metal bar, which houses the light source. This fixture provides a unique and elegant lighting effect, ideal for contemporary spaces like a hallway or living room.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/62.jpg"
+  },
+  {
+    "Id": 63,
+    "Name": "Modern Rectangular Pattern Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, rectangular translucent acrylic shade with a fine geometric or basket-weave pattern. The shade is held by a central vertical polished gold-toned bar, which also houses the light source. This fixture provides a sophisticated and clean aesthetic, perfect for adding stylish ambient lighting to a contemporary interior.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/63.jpg"
+  },
+  {
+    "Id": 64,
+    "Name": "Modern Gold Leaf Rectangular Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent rectangular acrylic shade with decorative gold flakes or leaf embedded within it. The shade is held by a central matte black metal backplate. This fixture offers a glamorous and stylish design, perfect for adding a touch of elegance to a contemporary living space or hallway.",
+    "Color": "black",
+    "Material": "Metal and Acrylic",
+    "Finish": "Matte black with a clear acrylic and gold flakes",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/64.jpg"
+  },
+  {
+    "Id": 65,
+    "Name": "Modern Cracked Ice Rectangular Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent rectangular acrylic shade with a unique cracked ice or textured pattern. The shade is held by a central black metal band and is mounted on a circular black backplate. This fixture provides an artistic and modern lighting effect, ideal for contemporary interiors.",
+    "Color": "black",
+    "Material": "Metal and Acrylic",
+    "Finish": "Matte black with a clear textured acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/65.jpg"
+  },
+  {
+    "Id": 66,
+    "Name": "Modern Woven Pattern Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a cylindrical, translucent fabric or acrylic shade with a woven or basket-weave pattern. The shade is mounted on a small, polished silver-toned metal base. This fixture offers a clean and contemporary design, providing a soft, diffused light, perfect for a modern bedroom or hallway.",
+    "Color": "golden",
+    "Material": "Fabric/Acrylic and Metal",
+    "Finish": "Polished silver with a white patterned shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/66.jpg"
+  },
+  {
+    "Id": 67,
+    "Name": "Modern Bubble Crown Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a crown-shaped, translucent acrylic shade with a decorative bubble or sparkling texture. The shade is held by a central matte black metal bar, which houses the light source. This fixture offers a glamorous and unique design, casting a beautiful sparkling light effect, ideal for contemporary spaces.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Matte black with a clear bubble-textured shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/67.jpg"
+  },
+  {
+    "Id": 68,
+    "Name": "Modern Swirl Pattern Curved Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent acrylic shade with a swirling or linear pattern etched into it. The shade is mounted on a small, polished gold-toned metal backplate. This fixture offers a modern and artistic design, casting a soft, patterned light, suitable for a contemporary interior.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a clear patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/68.jpg"
+  },
+  {
+    "Id": 69,
+    "Name": "Modern Leaf Design Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a leaf-shaped, translucent acrylic shade with a delicate woven or grid pattern. The light is mounted on a central, vertical bronze-toned metal bar which also houses the light source. This fixture offers a unique and artistic design, ideal for a contemporary interior.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished bronze with a clear patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/69.jpg"
+  },
+  {
+    "Id": 70,
+    "Name": "Modern Leaf Sparkle Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a leaf-shaped, translucent acrylic shade with a delicate sparkling or dotted pattern. The light is mounted on a central, vertical bronze-toned metal bar which also houses the light source. This fixture offers a glamorous and artistic design, ideal for a contemporary interior.",
+    "Color": "white",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished bronze with a clear patterned acrylic shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/70.jpg"
+  },
+  {
+    "Id": 71,
+    "Name": "Modern Crystal and Gold Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern wall sconce featuring a complex design with multiple textures. The fixture has a faceted, clear acrylic or crystal-like shade on one side and a textured, golden metal component on the other. It emits a sparkling, decorative light, ideal for adding a luxurious and contemporary touch to a space.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic/Crystal",
+    "Finish": "Polished gold with a faceted clear shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/71.jpg"
+  },
+  {
+    "Id": 72,
+    "Name": "Modern Crystal and Gold Backlit Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern multi-light wall sconce featuring a central vertical gold and black bar surrounded by a circular backplate with decorative white or clear bubble-like shapes. It has two clear, faceted, crystal-like shades, one on the top and one on the bottom of the central bar, which house the light sources. This fixture provides a glamorous and elegant backlit lighting effect, perfect for contemporary spaces.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic/Crystal",
+    "Finish": "Polished gold, matte black, and faceted clear shades",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/72.jpg"
+  },
+  {
+    "Id": 73,
+    "Name": "Modern Crystal and Gold Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce with a tiered design. It features a tapered, faceted, clear crystal-like shade on the top and a gold-toned section with a diamond pattern below. The fixture is mounted on a polished gold circular backplate with a clear, decorative frill-like edge. This sconce offers a glamorous and sophisticated look, perfect for adding an elegant touch to an interior space.",
+    "Color": "golden ",
+    "Material": "Metal and Acrylic/Crystal",
+    "Finish": "Polished gold with faceted clear and patterned shades",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/73.jpg"
+  },
+  {
+    "Id": 74,
+    "Name": "Modern Crystal Cylinder Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern double-light wall sconce featuring a central matte black metal band and two faceted, clear crystal-like cylindrical shades. One shade is on the top and one is on the bottom, both housing a light source. This fixture provides a sparkling and elegant lighting effect, perfect for contemporary spaces or hallways.",
+    "Color": "black",
+    "Material": "Metal and Acrylic/Crystal",
+    "Finish": "Matte black with faceted clear shades",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/74.jpg"
+  },
+  {
+    "Id": 75,
+    "Name": "Modern Bubble Oval Wall Sconce",
+    "Category": "Wall Light",
+    "Sub": "Vertical",
+    "Dep": "A modern single-light wall sconce featuring a curved, translucent, oval-shaped acrylic shade with a decorative bubble-like or sparkling texture. The shade wraps around a central polished gold-toned bar, which houses the light source and is mounted on a small circular backplate. This fixture creates a glamorous and unique lighting effect, ideal for contemporary living spaces.",
+    "Color": "golden",
+    "Material": "Metal and Acrylic",
+    "Finish": "Polished gold with a clear bubble-textured shade",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/75.jpg"
+  },
+  {
+    "Id": 76,
+    "Name": "Industrial Edison Style Pendant Light Bulbs",
+    "Category": "Pendant Light",
+    "Sub": "cylindrical",
+    "Dep": "A set of vintage-style Edison light bulbs, each with a unique glass shape and an intricate spiral filament design. The bulbs are suspended from black cords and feature a knurled, textured bronze or antique brass metal fitting at the top. This collection offers a stylish and industrial look, perfect for creating a statement piece in a dining area or over a kitchen island.",
+    "Color": "golden",
+    "Material": "Glass and Metal",
+    "Finish": "Antique brass/bronze with clear glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/76.jpg"
+  },
+  {
+    "Id": 77,
+    "Name": "Industrial & Vintage Lighting Collection",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A diverse collection of industrial and vintage-style lighting, including hanging pendant lights and table lamps. The fixtures feature various metal cages, natural wood bases, and exposed Edison bulbs with intricate filaments. This assortment is ideal for creating a curated, eclectic feel in a modern or retro-themed space.",
+    "Color": "golden",
+    "Material": "Metal, Wood, Glass, and Plastic",
+    "Finish": "Matte black, natural wood, and clear/amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/77.jpg"
+  },
+  {
+    "Id": 78,
+    "Name": "Industrial Edison Bulb Table Lamp",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A set of three vintage-style Edison light bulbs, each with a different glass shape and intricate filament design, mounted on a single rectangular wooden base. This unique table lamp offers an industrial and vintage aesthetic, perfect for a desk or side table.",
+    "Color": "golden",
+    "Material": "Wood and Glass",
+    "Finish": "Natural wood with clear/amber glass bulbs",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/78.jpg"
+  },
+  {
+    "Id": 79,
+    "Name": "Edison Filament Bulb Assortment",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A collection of images showcasing various Edison-style filament bulbs in different settings. The bulbs, which come in multiple shapes like globe and elongated, feature a visible spiral filament. They are shown with different fixtures, including a table lamp with a black base and a hanging pendant light with a bronze or brass-toned fitting.",
+    "Color": "golden",
+    "Material": "Glass, Metal, and Plastic",
+    "Finish": "Matte black and bronze with clear/amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/79.jpg"
+  },
+  {
+    "Id": 80,
+    "Name": "Diamond Shape Filament LED Bulb",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A single vintage-style filament LED bulb with a unique faceted, diamond-like shape. The clear amber glass showcases a linear LED filament, providing a warm and decorative glow.",
+    "Color": "golden",
+    "Material": "Glass",
+    "Finish": "Clear glass with a warm glow",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/80.jpg"
+  },
+  {
+    "Id": 81,
+    "Name": "Heart Shape Filament LED Bulb",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A single vintage-style filament LED bulb with a unique heart shape. The clear amber glass showcases a spiral filament, providing a warm and decorative glow.",
+    "Color": "golden",
+    "Material": "Glass",
+    "Finish": "Clear glass with a warm glow",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/81.jpg"
+  },
+  {
+    "Id": 82,
+    "Name": "Tubular Filament LED Bulb",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A single vintage-style filament LED bulb with a unique horizontal, tubular shape. The clear amber glass showcases a linear LED filament, providing a warm and decorative glow.",
+    "Color": "golden",
+    "Material": "Glass and Metal/Plastic",
+    "Finish": "Clear glass with a warm glow",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/82.jpg"
+  },
+  {
+    "Id": 83,
+    "Name": "ST64 Filament LED Bulb",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A vintage-style filament LED bulb with the classic ST64 pear shape. The clear amber glass showcases multiple linear LED filaments, providing a warm and decorative glow. This bulb is perfect for open fixtures where the bulb itself is a design feature.",
+    "Color": "golden",
+    "Material": "Glass and Metal",
+    "Finish": "Clear glass with a warm glow",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/83.jpg"
+  },
+  {
+    "Id": 84,
+    "Name": "Spiral Filament Corn Cob LED Bulbs",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A pair of modern LED bulbs with a unique corn cob shape. They feature a spiral arrangement of both yellow and white LED chips visible through a clear cover. The base is a combination of copper/bronze and silver metal. These bulbs offer a modern and industrial look, ideal for use in open fixtures.",
+    "Color": "golden",
+    "Material": "Plastic and Metal",
+    "Finish": "Copper and silver on the base with a clear cover",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/84.jpg"
+  },
+  {
+    "Id": 85,
+    "Name": "Long Tubular Filament LED Bulb",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A single vintage-style filament LED bulb with a unique long, tubular shape. The clear amber glass showcases multiple linear LED filaments, providing a warm and decorative glow. It is shown attached to a black pendant-style fixture with a knurled base.",
+    "Color": "golden",
+    "Material": "Glass and Metal",
+    "Finish": "Matte black with clear/amber glass",
+    "Style": "Industrial",
+    "IMG": "assests/Pictures/85.jpg"
+  },
+  {
+    "Id": 86,
+    "Name": "Classic Filament LED Bulbs",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A group of three classic A-shaped LED bulbs, which have a clear glass casing and visible vertical LED filaments that mimic traditional incandescent filaments. These bulbs provide a warm, decorative glow with the energy efficiency of modern LED technology.",
+    "Color": "golden",
+    "Material": "Glass and Metal",
+    "Finish": "Clear glass with a warm glow and a silver base",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/86.jpg"
+  },
+  {
+    "Id": 87,
+    "Name": "Flame Tip Filament LED Bulbs",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A group of three candle-shaped LED bulbs with a unique flame-like curved tip. The clear glass casings show visible yellow LED filaments, and the bulbs have a silver threaded base. These bulbs combine a classic aesthetic with modern energy-efficient technology.",
+    "Color": "golden",
+    "Material": "Glass and Metal",
+    "Finish": "Clear glass with a warm glow and a silver base",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/87.jpg"
+  },
+  {
+    "Id": 88,
+    "Name": "Classic Candle Filament LED Bulbs",
+    "Category": "Edison Bulbs",
+    "Sub": "cylindrical",
+    "Dep": "A group of three candle-shaped LED bulbs with a clear glass casing. The bulbs feature visible vertical LED filaments, providing a warm decorative glow similar to traditional incandescent bulbs. They have a silver threaded base, combining a vintage look with modern energy efficiency.",
+    "Color": "golden",
+    "Material": "Glass and Metal",
+    "Finish": "Clear glass with a warm glow and a silver base",
+    "Style": "Modern & Contemporary",
+    "IMG": "assests/Pictures/88.jpg"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
