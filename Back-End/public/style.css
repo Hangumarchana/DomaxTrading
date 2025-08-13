@@ -1565,7 +1565,7 @@ footer{
         font-size: 14px;
 
     }
-    .container, .container-sm {
+    .product-card-details {
         max-width: 400px!important;
     }
 
@@ -1577,7 +1577,7 @@ footer{
 
 }
 @media (min-width: 300px )  and (max-width: 400px){
-    .container, .container-sm {
+    .product-card-details {
         max-width: 300px!important;
     }
 }
