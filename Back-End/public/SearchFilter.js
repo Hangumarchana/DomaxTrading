@@ -27,7 +27,7 @@ function filterProducts() {
             p.Category.toLowerCase().includes(input)
         );
 
-        dropdown.innerHTML = ''; // Clear loading spinner
+        dropdown.innerHTML = '';
 
         if (filtered.length === 0) {
             dropdown.innerHTML = '<div class="product-item1">No results found</div>';

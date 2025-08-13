@@ -9,7 +9,7 @@ const productFinish = document.querySelector('.product-finish');
 const productStyle = document.querySelector('.product-style');
 const productDescription = document.querySelector('.product-description');
 const productContainer = document.querySelector('.product-card-details');
-const phoneNumber = "94718990374";
+const phoneNumber = "94776950920";
 const buyNowBtn = document.querySelector(".premium-btn");
 const productDetailFooter = document.querySelector('.productDetailFooter');
 
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         const productId = urlParams.get('id');
         console.log("Product ID from URL:", productId);
 
-        // Fetch the data.json file
+
         const response = await fetch('Data.json');
         if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -30,13 +30,13 @@ document.addEventListener("DOMContentLoaded", async function () {
         console.log("Loaded database:", database4);
 
         if (productId && database4) {
-            // Find product by Id (loose equality to allow string/number match)
+
             const product = database4.find(item => item.Id == productId);
 
             if (product) {
                 console.log("Product found:", product);
 
-                // Populate product details
+
                 productDetailImage.src = product.IMG;
                 productDetailImage.alt = product.Name;
                 productName.innerText = product.Name;
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                 productStyle.innerHTML = `<strong>Style:</strong> ${product.Style}`;
                 productDescription.innerHTML = `<strong>Description:</strong> ${product.Dep}`;
 
-                // Add event listener to Buy Now button
+
                 buyNowBtn.addEventListener("click", function (e) {
                     e.preventDefault();
                     const message = `Hello, I'm interested in buying:\n\n` +
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                 });
 
             } else {
-                // Product with that ID not found in database
+
                 console.log("No product found with the given ID");
                 productContainer.innerHTML = `
                     <div class="text-center p-4 bg-light rounded ">
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
             }
         } else {
-            // productId missing or database4 empty
+
             console.log("Product ID missing in URL or database is empty");
             productContainer.innerHTML = `
                     <div class="text-center p-4 bg-light rounded ">

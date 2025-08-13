@@ -1502,7 +1502,7 @@ footer{
     transition: all 0.3s ease;
 }
 
-/* Hover effect */
+
 .topDiv:hover {
     background-color: #f1f1f1;
     transform: scale(1.05);
@@ -1517,13 +1517,13 @@ footer{
 
 
 
-/* Entrance animation */
+
 .showTopDiv {
     opacity: 1;
     transform: scale(1);
 }
 
-/* Bounce animation for arrow */
+
 @keyframes bounce {
     0%, 100% {
         transform: translateY(0);

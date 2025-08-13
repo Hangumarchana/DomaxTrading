@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const clearAllBtn = document.getElementById('clearAllBtn');
 
 
-    // Hide initially
+
     appliedFilterBox.style.display = 'none';
 
     function updateFilterVisibility() {
@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // ---------- Handle Color Circles ----------
+
     colorCircles.forEach(circle => {
         circle.addEventListener('click', function () {
             const colorName = this.dataset.color;
@@ -179,7 +179,7 @@ function renderProducts(filteredItems) {
     }
 
 
-        // Create a Bootstrap row container
+
     const row = document.createElement('div');
     row.className = 'row';
 
