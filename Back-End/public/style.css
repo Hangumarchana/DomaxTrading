@@ -1578,7 +1578,7 @@ footer{
 }
 @media (min-width: 300px )  and (max-width: 400px){
     .product-card-details {
-        max-width: 300px!important;
+        max-width: 340px!important;
     }
 }
 .FooterNavText:hover{
