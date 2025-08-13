@@ -55,18 +55,18 @@ async function main(){
     product3Name.innerText = database[37].Name;
     product3Style.innerText = database[37].Style;
     productId6.innerText = database[37].Id;
-    product4Image.src = database[33].IMG;
-    product4Name.innerText = database[33].Name;
-    product4Style.innerText = database[33].Style;
-    productId7.innerText = database[33].Id;
-    product5Image.src = database[31].IMG;
-    product5Name.innerText = database[31].Name;
-    product5Style.innerText = database[31].Style;
-    productId8.innerText = database[31].Id;
-    product6Image.src = database[35].IMG;
-    product6Name.innerText = database[35].Name;
-    product6Style.innerText = database[35].Style;
-    productId9.innerText = database[35].Id;
+    product4Image.src = database[52].IMG;
+    product4Name.innerText = database[52].Name;
+    product4Style.innerText = database[52].Style;
+    productId7.innerText = database[52].Id;
+    product5Image.src = database[55].IMG;
+    product5Name.innerText = database[55].Name;
+    product5Style.innerText = database[55].Style;
+    productId8.innerText = database[55].Id;
+    product6Image.src = database[45].IMG;
+    product6Name.innerText = database[45].Name;
+    product6Style.innerText = database[45].Style;
+    productId9.innerText = database[45].Id;
 
 
 

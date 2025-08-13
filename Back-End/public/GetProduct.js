@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                 productDetailImage.alt = product.Name;
                 productName.innerText = product.Name;
                 productCategory.innerHTML = `<strong>Category:</strong> ${product.Category}`;
-                productShape.innerHTML = `<strong>Subtype:</strong> ${product.Sub}`;
+                productShape.innerHTML = `<strong>Shape:</strong> ${product.Sub}`;
                 productColor.innerHTML = `<strong>Color:</strong> ${product.Color}`;
                 productMaterial.innerHTML = `<strong>Material:</strong> ${product.Material}`;
                 productFinish.innerHTML = `<strong>Finish:</strong> ${product.Finish}`;

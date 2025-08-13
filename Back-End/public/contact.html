@@ -261,7 +261,7 @@
         };
 
         try {
-            const response = await fetch("http://178.128.101.173:3000/send", {
+            const response = await fetch("/send", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(formData)

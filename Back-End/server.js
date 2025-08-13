@@ -16,15 +16,12 @@ app.post('/send', async (req, res) => {
     const { firstName, lastName, email, subject, message } = req.body;
 
     const transporter = nodemailer.createTransport({
-        host: 'smtp.gmail.com',
-        port: 465,
-        secure: true,
+        service: 'gmail',
         auth: {
             user: process.env.EMAIL_USER,
             pass: process.env.EMAIL_PASS
         }
     });
-
 
     const mailOptions = {
         from: email,
@@ -54,6 +51,6 @@ app.post('/send', async (req, res) => {
     }
 });
 
-app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server started on http://0.0.0.0:${PORT}`);
+app.listen(PORT, () => {
+    console.log(`Server started on http://localhost:${PORT}`);
 });

@@ -1532,6 +1532,9 @@ footer{
         transform: translateY(-3px);
     }
 }
+.back{
+    width:177px;
+}
 @media (max-width: 576px) {
     .back{
         width: 100px;
@@ -1541,20 +1544,20 @@ footer{
         align-items: center;
         font-size: 14px;
         font-weight: bold;
-        font-family: 'quicksand', sans-serif;
+
 
 
 
     }
     .buy{
-        width: 150px;
+        width: 100px;
         height:50px;
         display: flex;
         justify-content: center;
         align-items: center;
         font-size: 14px;
         font-weight: bold;
-        font-family: 'quicksand', sans-serif;
+
         text-wrap: nowrap;
 
     }
@@ -1562,7 +1565,19 @@ footer{
         font-size: 14px;
 
     }
+    .container, .container-sm {
+        max-width: 400px!important;
+    }
 
 
 
+
+
+
+
+}
+@media (min-width: 300px )  and (max-width: 400px){
+    .container, .container-sm {
+        max-width: 300px!important;
+    }
 }
