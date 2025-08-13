@@ -1581,3 +1581,7 @@ footer{
         max-width: 300px!important;
     }
 }
+.FooterNavText:hover{
+    text-decoration: underline!important;
+
+}
