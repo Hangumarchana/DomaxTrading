@@ -1417,7 +1417,7 @@
   },
   {
     "Id": 119,
-    "Name": "Set of Outdoor Decorative Bollard Lights with Clear Panels",
+    "Name": "Decorative Bollard Lights with Clear Panels",
     "Category": "Garden Lamp",
     "Sub": "Lantern",
     "Dep": "A set of three modern, black outdoor bollard lights in varying sizes. Each light has a rectangular, lantern-style design with a sloped roof and a decorative lattice pattern on the clear glass or plastic panels. The open panels allow for maximum light output. The lanterns are mounted on a sturdy square base, making them ideal for placement on fence posts or garden walls to provide bright, ambient lighting.",
@@ -1441,7 +1441,7 @@
   },
   {
     "Id": 121,
-    "Name": "Set of Outdoor Decorative Bollard Lights",
+    "Name": "Outdoor Decorative Bollard Lights",
     "Category": "Garden Lamp",
     "Sub": "Lantern",
     "Dep": "A set of three modern, black outdoor bollard lights in varying sizes. Each light has a rectangular, lantern-style design with a geometric lattice pattern on the sides. The lights are mounted on a sturdy square base, making them ideal for illuminating garden paths, driveways, or landscaping. They provide a decorative and architectural lighting effect.",
@@ -1453,7 +1453,7 @@
   },
   {
     "Id": 122,
-    "Name": "Set of Outdoor Post Cap Lanterns with Louvers",
+    "Name": "Set of Outdoor Post Cap Lanterns",
     "Category": "Garden Lamp",
     "Sub": "Lantern",
     "Dep": "A set of three modern outdoor post cap lanterns in varying sizes. Each lantern has a black metal frame with a sloped, pagoda-style roof and frosted white panels on the sides. The panels are partially covered with horizontal metal louvers, creating a decorative light pattern. They are mounted on a sturdy square base, making them ideal for placement on fence posts or garden walls to provide ambient lighting.",
@@ -1465,7 +1465,7 @@
   },
   {
     "Id": 123,
-    "Name": "Set of Outdoor Post Lanterns with Clear Panels",
+    "Name": "Set of Outdoor Post Lanterns",
     "Category": "Garden Lamp",
     "Sub": "Lantern",
     "Dep": "A set of three modern, black outdoor post lanterns in varying sizes. Each lantern has a geometric, black metal frame with a sloped roof and clear glass or plastic panels on the sides. The clear panels allow for maximum light output from the bulb inside. The lanterns are mounted on a sturdy square base, making them ideal for placement on fence posts or garden walls to provide bright, ambient lighting.",
@@ -1489,7 +1489,7 @@
   },
   {
     "Id": 125,
-    "Name": "Set of Outdoor Post Lanterns with Frosted Panels",
+    "Name": "Set of Outdoor Post Lanterns",
     "Category": "Garden Lamp",
     "Sub": "Lantern",
     "Dep": "A set of three modern outdoor post lanterns in varying sizes. Each lantern has a geometric, dark grey metal frame with a sloped roof and a decorative finial on top. The sides are fitted with frosted glass or plastic panels, which diffuse the light for a soft, ambient glow. The lanterns are mounted on a sturdy square base, making them ideal for placement on fence posts or garden walls.",
@@ -1501,7 +1501,7 @@
   },
   {
     "Id": 126,
-    "Name": "Set of Outdoor Post Lanterns with Grid Panels",
+    "Name": "Set of Outdoor Post Lanterns",
     "Category": "Garden Lamp",
     "Sub": "Lantern",
     "Dep": "A set of three modern outdoor post lanterns in varying sizes. Each lantern has a geometric, black metal frame with a sloped roof and a decorative grid pattern on the clear glass or plastic panels. The open panels allow for maximum light output. The lanterns are mounted on a sturdy square base, making them ideal for placement on fence posts or garden walls to provide bright, ambient lighting.",
@@ -1549,7 +1549,7 @@
   },
   {
     "Id": 130,
-    "Name": "Modern 3-Light Curved Bar Chandelier with Crystal Globes",
+    "Name": "Modern 3-Light Curved Bar Chandelier",
     "Category": "Chandeliers",
     "Sub": "Geometric",
     "Dep": "A modern three-light chandelier featuring a curved black bar from which three lights are suspended. Each light consists of a black, openwork geometric cage enclosing a sparkling crystal-like globe. The fixture hangs from a rectangular ceiling plate, combining an industrial feel with a touch of glamour.",
@@ -1573,7 +1573,7 @@
   },
   {
     "Id": 132,
-    "Name": "Modern 3-Light Cluster Pendant with Crystal and Gold",
+    "Name": "Modern 3-Light Cluster Pendant",
     "Category": "Pendant Lights",
     "Sub": "Cluster",
     "Dep": "A modern three-light pendant fixture with a polished gold finish. It features a round ceiling plate and three lights hanging at different lengths. Each light consists of a spherical, textured crystal orb housed within an intertwined gold metal cage, giving it a sophisticated and luxurious look.",
@@ -1585,7 +1585,7 @@
   },
   {
     "Id": 133,
-    "Name": "Modern 3-Light Geometric Cluster with Crystal Spheres",
+    "Name": "Modern 3-Light Geometric Cluster",
     "Category": "Pendant Lights",
     "Sub": "Geometric",
     "Dep": "A modern three-light pendant fixture with a polished gold finish. It features a geometric, triangular frame from which three lights are suspended at varying heights. Each light consists of a large, textured crystal sphere partially enclosed by a curved, polished gold metal band, creating a dynamic and sculptural design.",
@@ -1597,7 +1597,7 @@
   },
   {
     "Id": 134,
-    "Name": "Modern 3-Light Cluster Pendant with Swirl Pattern",
+    "Name": "Modern 3-Light Cluster Pendant",
     "Category": "Pendant Lights",
     "Sub": "Cluster",
     "Dep": "A modern three-light pendant fixture with a round black ceiling plate and three lights hanging at different lengths. Each light features a spherical shade with a black metal exterior that has a decorative, swirling cut-out pattern, revealing a glittering crystal-like interior. The design is both contemporary and glamorous.",
@@ -1609,7 +1609,7 @@
   },
   {
     "Id": 135,
-    "Name": "Modern 3-Light Geometric Cluster with Crystal Spheres",
+    "Name": "Modern 3-Light Geometric Cluster",
     "Category": "Pendant Lights",
     "Sub": "Geometric",
     "Dep": "A modern three-light pendant fixture with a matte black finish. It features a geometric, triangular frame from which three lights are suspended at varying heights. Each light consists of a large, textured crystal sphere partially enclosed by a spiral-like black metal cage, creating a dynamic and sculptural design.",
@@ -1621,7 +1621,7 @@
   },
   {
     "Id": 136,
-    "Name": "Modern 3-Light Geometric Pendant with Cage Shades",
+    "Name": "Modern 3-Light Geometric Pendant",
     "Category": "Pendant Lights",
     "Sub": "Geometric",
     "Dep": "A modern three-light pendant fixture with a matte black finish. It features a triangular geometric frame from which three lights are suspended at different lengths. Each light consists of a black wire cage surrounding a textured glass or crystal interior, creating an industrial yet contemporary look.",
@@ -1633,7 +1633,7 @@
   },
   {
     "Id": 137,
-    "Name": "Modern 3-Light Curved Bar Pendant with Gold Geometric Shades",
+    "Name": "Modern 3-Light Curved Bar Pendant",
     "Category": "Pendant Lights",
     "Sub": "Geometric",
     "Dep": "A modern three-light pendant fixture with a curved black horizontal bar from which three lights are suspended. Each light has a cylindrical white shade at the bottom and a decorative gold-colored metal cage with a geometric pattern on top, combining a minimalist base with a bold, decorative element.",
@@ -1645,7 +1645,7 @@
   },
   {
     "Id": 138,
-    "Name": "Modern 3-Light Cluster with Decorative Shades",
+    "Name": "Modern 3-Light Cluster",
     "Category": "Pendant Lights",
     "Sub": "Cluster",
     "Dep": "A modern three-light pendant fixture with a round black ceiling plate and three lights hanging at different lengths. Each light has a tiered shade with a frosted white glass bottom and a black metal top with a decorative, starburst-like cut-out pattern, creating a contemporary and elegant look.",
@@ -1657,7 +1657,7 @@
   },
   {
     "Id": 139,
-    "Name": "Modern 3-Light Cluster with Geometric Lantern Shades",
+    "Name": "Modern 3-Light Cluster",
     "Category": "Pendant Lights",
     "Sub": "Lantern",
     "Dep": "A modern three-light pendant fixture with a round black ceiling plate from which three lights are suspended at varying lengths. Each light features a unique, dark metal geometric lantern-style shade with intricate cut-out patterns, giving a warm glow from the interior bulb. The design blends modern and industrial styles.",
@@ -1669,7 +1669,7 @@
   },
   {
     "Id": 140,
-    "Name": "Modern 3-Light Cluster with Gold Cone Shades and Crystal",
+    "Name": "Modern 3-Light Cluster",
     "Category": "Pendant Lights",
     "Sub": "Cluster",
     "Dep": "A modern three-light pendant fixture with a polished gold finish. It features a round ceiling plate and three lights hanging at varying lengths. Each light consists of a decorative, cone-shaped gold metal shade with a delicate cut-out pattern, which encloses a sparkling crystal-like sphere at the bottom.",
@@ -1681,7 +1681,7 @@
   },
   {
     "Id": 141,
-    "Name": "Modern 3-Light Geometric Cluster with White Cages",
+    "Name": "Modern 3-Light Geometric Cluster",
     "Category": "Pendant Lights",
     "Sub": "Geometric",
     "Dep": "A modern three-light pendant fixture with a polished gold ceiling plate and a white geometric frame. Three lights hang at varying lengths from the frame. Each light features a teardrop-shaped amber glass shade enclosed within a decorative white wire cage, giving it a unique blend of modern, industrial, and vintage styles.",
@@ -1693,7 +1693,7 @@
   },
   {
     "Id": 142,
-    "Name": "Modern 3-Light Cluster with Rectangular Geometric Shades",
+    "Name": "Modern 3-Light Cluster",
     "Category": "Pendant Lights",
     "Sub": "Geometric",
     "Dep": "A modern three-light pendant fixture with a matte dark brown or black finish. It features a round ceiling plate and three lights suspended at different lengths. Each light has a rectangular, geometric shade with an openwork design, revealing a gold interior that provides a warm, ambient glow. The shades have a stacked, layered appearance, creating a contemporary and architectural look.",
@@ -1705,7 +1705,7 @@
   },
   {
     "Id": 143,
-    "Name": "Modern 3-Light Cluster with Wooden Rings and Frosted Globes",
+    "Name": "Modern 3-Light Cluster",
     "Category": "Pendant Lights",
     "Sub": "Cluster",
     "Dep": "A modern three-light pendant fixture with a natural wood finish. It features a round wooden ceiling plate from which three lights are suspended at varying lengths. Each light consists of a spherical frosted glass globe encased within a circular wooden ring, creating a clean, minimalist, and Scandinavian-inspired design.",
@@ -1717,7 +1717,7 @@
   },
   {
     "Id": 144,
-    "Name": "Modern 3-Light Cluster with Cylindrical Amber Shades",
+    "Name": "Modern 3-Light Cluster",
     "Category": "Pendant Lights",
     "Sub": "Cluster",
     "Dep": "A modern three-light pendant fixture with a dark finish. It features a round ceiling plate and three lights hanging at different lengths. Each light has a cylindrical amber glass shade housed within a square-shaped, open metal frame with rounded corners, creating a contemporary and minimalist aesthetic.",
@@ -1729,7 +1729,7 @@
   },
   {
     "Id": 145,
-    "Name": "Luxurious Gold Chandelier with Crystal Strands",
+    "Name": "Luxurious Gold Chandelier",
     "Category": "Chandeliers",
     "Sub": "Cluster",
     "Dep": "A large, luxurious chandelier with a natural, organic design. It features a polished gold-toned frame resembling tree branches or twigs, from which numerous strands of glittering crystals are suspended, creating a cascading, waterfall effect. The light sources are integrated within the structure, illuminating the crystals and casting a brilliant, ambient light. It is a striking centerpiece for a modern or contemporary space.",
@@ -1741,7 +1741,7 @@
   },
   {
     "Id": 146,
-    "Name": "Tiered Gold Chandelier with Black and Crystal Accents",
+    "Name": "Tiered Gold Chandelier",
     "Category": "Chandeliers",
     "Sub": "Crystal",
     "Dep": "A large, tiered chandelier with a grand, luxurious design. The fixture features multiple concentric rings, with the lower tiers consisting of cascading clear crystals and the upper tiers featuring alternating sections of black panels and crystals. The frame and hardware have a polished gold finish, creating a striking contrast and a high-end, contemporary look.",
